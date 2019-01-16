@@ -1,10 +1,6 @@
-<<<<<<< HEAD
 testing123
-
-=======
+hello again!
 hola collaborators.
-
 this is pretty neat.
-
 nice to meet you.
->>>>>>> 362210e5e170a88fc843b4cbc43f1d1feafc93ac
+mew
